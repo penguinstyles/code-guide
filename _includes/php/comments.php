@@ -10,6 +10,8 @@
    class riotapi {
    
    }
+
+?>
    
 // Good example
 <?php
