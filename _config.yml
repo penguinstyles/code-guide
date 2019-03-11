@@ -1,9 +1,7 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+name:          Riftside Code Guide
+description:   Standards for developing flexible, durable, and sustainable HTML, CSS and PHP.
+url:           https://riftside.net
 
 markdown:      rdiscount
 permalink:     pretty
 pygments:      true
-
-theme: jekyll-theme-cayman
