@@ -5,3 +5,5 @@ url:           http://codeguide.co
 markdown:      rdiscount
 permalink:     pretty
 pygments:      true
+
+theme: jekyll-theme-cayman
